@@ -1,0 +1,66 @@
+{
+	"serverPort": 5000,
+	"isHttps": false,
+	"mongoIP": "localhost",
+	"mongoDBName": "Agent_Server",
+	"mongoDBUserName": "",
+	"mongoDBPassword": "",
+	"secretKey":"myChatServer",
+	"auth":{
+		"isAuthenticationRequired":true,
+		"users": [
+			{
+                "username": "MAIN_SERVER",
+				"password": "43MTE9KR"
+			},
+			{
+				"username": "CALLCENTER_SERVER",
+				"password": "URE323421"
+			},
+			{
+				"username": "PARENT_SERVER",
+				"password": "PAR123783",
+				"isAdmin" : true
+			}
+		]
+	},
+	"Accounts" : {
+		"AccountType" : "CHATWOOT",
+		"Accountid" : 40199,
+		"apiToken" : "u1dNpoL7LMyosxF1GYvSmK5p",
+		"baseURL" : "https://5cfe9c159dff.ngrok.io"
+	},
+	"WebRTCLinkTimeOut" : 5,
+	"MockServerDetails" : {
+        "serverURL" : "http://7f142e555251.ngrok.io",
+		"credentials": {
+             		"username" : "WINNOWPRO",
+		            "password" : "BNYS4742LKD"
+		}
+	},
+	"ParentServerDetails" : {
+        "serverURL" : "https://8d261db88c53.ngrok.io",
+		"credentials": {
+             		"username" : "AGENT_SERVER",
+		            "password" : "PAR123783PASS"
+		}
+	},
+	"CallCenterServerDetails" : {
+       "serverURL" : "https://core-callcenter-dev.intelli-assist.com:1063",
+	   "credentials" : {
+		            "username" : "MOCK_SERVER",
+					"password" : "RNJ3ns7c"
+	   }
+	},
+	"Business__Inbox" : {
+        "serverURL" : "https://core-insightengine-dev.intelli-assist.com:3053",
+		"credentials" : {
+			        "username": "AGENT_SERVER",
+				    "password": "4636SJ3r"
+		}
+	},
+	"ChatHistoryDetailsTokenSecretKey" : "CHAT_HISTORY_TOKEN",
+	"Domain_Server" : "https://app.chatwoot.com",
+	"Twilio_Outbound_Webhook_Url" : "https://4930-42-110-144-193.ngrok.io",
+	"websocketpath":"/ws"	
+}

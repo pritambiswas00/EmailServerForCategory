@@ -1,0 +1,14 @@
+{
+    "presets": [
+      "@babel/preset-env"
+    ],
+    "plugins": [
+      ["@babel/plugin-transform-modules-commonjs", {
+        "allowTopLevelThis": true
+      }]
+    ],
+    "ignore": [
+      "/node_modules",
+      "./src/Category/**/*.js | ./src/Category/**/*.ts | ./src/Category/**/*.json | ./src/Category/**/*.lock.json | ./src/Category/**/*.spec.js"
+    ]
+}

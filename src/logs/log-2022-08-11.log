@@ -1,0 +1,64 @@
+11/08/2022 17:39:08  info: Connected to the Database.
+11/08/2022 17:39:08  info: Server is up at Port 5000
+11/08/2022 17:43:42  error: request to http://localhost:8000/sendEmailWebhook failed, reason: connect ECONNREFUSED 127.0.0.1:8000
+11/08/2022 17:52:52  info: Connected to the Database.
+11/08/2022 17:52:52  info: Server is up at Port 5000
+11/08/2022 17:55:30  error: invalid json response body at http://localhost:1053/EmailChannelMessageResponse reason: Unexpected token < in JSON at position 0
+11/08/2022 17:59:43  info: Connected to the Database.
+11/08/2022 17:59:43  info: Server is up at Port 5000
+11/08/2022 18:02:18  error: invalid json response body at http://localhost:1053/EmailChannelMessageResponse reason: Unexpected token < in JSON at position 0
+11/08/2022 18:03:49  info: Connected to the Database.
+11/08/2022 18:03:49  info: Server is up at Port 5000
+11/08/2022 18:04:35  error: invalid json response body at http://localhost:1053/EmailChannelMessageResponse reason: Unexpected token < in JSON at position 0
+11/08/2022 18:13:19  info: Connected to the Database.
+11/08/2022 18:13:19  info: Server is up at Port 5000
+11/08/2022 18:14:27  error: body is not defined
+11/08/2022 18:14:58  info: Connected to the Database.
+11/08/2022 18:14:58  info: Server is up at Port 5000
+11/08/2022 18:15:34  error: invalid json response body at http://localhost:1053/EmailChannelMessageResponse reason: Unexpected token < in JSON at position 0
+11/08/2022 18:16:26  info: Connected to the Database.
+11/08/2022 18:16:26  info: Server is up at Port 5000
+11/08/2022 18:17:54  info: Connected to the Database.
+11/08/2022 18:17:54  info: Server is up at Port 5000
+11/08/2022 18:18:07  info: Connected to the Database.
+11/08/2022 18:18:07  info: Server is up at Port 5000
+11/08/2022 18:19:09  info: Connected to the Database.
+11/08/2022 18:19:09  info: Server is up at Port 5000
+11/08/2022 18:20:10  info: Connected to the Database.
+11/08/2022 18:20:10  info: Server is up at Port 5000
+11/08/2022 18:21:06  info: Connected to the Database.
+11/08/2022 18:21:06  info: Server is up at Port 5000
+11/08/2022 18:21:34  error: invalid json response body at http://localhost:1053/EmailChannelMessageResponse reason: Unexpected token < in JSON at position 0
+11/08/2022 18:24:44  info: Connected to the Database.
+11/08/2022 18:24:44  info: Server is up at Port 5000
+11/08/2022 18:25:11  error: invalid json response body at http://localhost:1053/EmailChannelMessageResponse reason: Unexpected token < in JSON at position 0
+11/08/2022 18:26:32  info: Connected to the Database.
+11/08/2022 18:26:32  info: Server is up at Port 5000
+11/08/2022 18:26:58  error: invalid json response body at http://localhost:1053/EmailChannelMessageResponse reason: Unexpected token < in JSON at position 0
+11/08/2022 18:28:16  info: Connected to the Database.
+11/08/2022 18:28:16  info: Server is up at Port 5000
+11/08/2022 18:28:44  error: invalid json response body at http://localhost:1053/EmailChannelMessageResponse reason: Unexpected token < in JSON at position 0
+11/08/2022 18:30:31  info: Connected to the Database.
+11/08/2022 18:30:31  info: Server is up at Port 5000
+11/08/2022 18:31:01  info: Successfuly sent data to the call center.
+11/08/2022 18:32:54  info: Successfuly sent data to the call center.
+11/08/2022 18:47:54  info: Successfuly sent data to the call center.
+11/08/2022 18:48:42  info: Successfuly sent data to the call center.
+11/08/2022 18:53:48  info: Connected to the Database.
+11/08/2022 18:53:48  info: Server is up at Port 5000
+11/08/2022 19:09:34  info: Successfuly sent data to the call center.
+11/08/2022 19:14:02  info: Successfuly sent data to the call center.
+11/08/2022 19:15:29  info: Successfuly sent data to the call center.
+11/08/2022 19:18:05  info: Successfuly sent data to the call center.
+11/08/2022 19:18:44  info: Connected to the Database.
+11/08/2022 19:18:44  info: Server is up at Port 5000
+11/08/2022 19:19:23  info: Successfuly sent data to the call center.
+11/08/2022 19:19:46  info: Connected to the Database.
+11/08/2022 19:19:46  info: Server is up at Port 5000
+11/08/2022 19:20:17  info: Successfuly sent data to the call center.
+11/08/2022 19:26:30  info: Successfuly sent data to the call center.
+11/08/2022 19:30:47  info: Successfuly sent data to the call center.
+11/08/2022 19:32:08  info: Successfuly sent data to the call center.
+11/08/2022 19:33:15  info: Successfuly sent data to the call center.
+11/08/2022 20:21:47  info: Successfuly sent data to the call center.
+11/08/2022 20:22:34  info: Successfuly sent data to the call center.

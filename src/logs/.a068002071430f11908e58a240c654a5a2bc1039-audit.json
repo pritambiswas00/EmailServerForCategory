@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\Almawiz\\SimpleServer\\src\\logs\\.a068002071430f11908e58a240c654a5a2bc1039-audit.json",
+    "files": [
+        {
+            "date": 1659333581808,
+            "name": "D:\\Almawiz\\SimpleServer\\src\\logs\\log-2022-08-01.log",
+            "hash": "ee71a217818a674c50ffeed9d6bad19c476c3993ef0985feb697977af7f0e9fd"
+        },
+        {
+            "date": 1659439181060,
+            "name": "D:\\Almawiz\\SimpleServer\\src\\logs\\log-2022-08-02.log",
+            "hash": "15507074f80a64d97949e7fb8a19f1b1eeb6336c51322a3da5954485dcc2c5d7"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,259 @@
+01/08/2022 11:30:05  info: Connected to the Database.
+01/08/2022 11:30:14  info: Connected to the Database.
+01/08/2022 11:30:14  info: Server is up at Port 8000
+01/08/2022 11:32:18  info: Connected to the Database.
+01/08/2022 11:32:18  info: Server is up at Port 8000
+01/08/2022 11:52:43  info: Connected to the Database.
+01/08/2022 11:53:39  info: Connected to the Database.
+01/08/2022 11:54:08  info: Connected to the Database.
+01/08/2022 11:54:08  info: Server is up at Port 8000
+01/08/2022 11:56:49  info: Connected to the Database.
+01/08/2022 11:56:49  info: Server is up at Port 8000
+01/08/2022 12:00:14  info: Connected to the Database.
+01/08/2022 12:00:14  info: Server is up at Port 8000
+01/08/2022 12:00:31  info: Connected to the Database.
+01/08/2022 12:00:31  info: Server is up at Port 8000
+01/08/2022 12:01:36  info: Connected to the Database.
+01/08/2022 12:01:36  info: Server is up at Port 8000
+01/08/2022 12:12:42  info: Connected to the Database.
+01/08/2022 12:14:15  info: Connected to the Database.
+01/08/2022 12:19:57  info: Connected to the Database.
+01/08/2022 12:43:23  info: Connected to the Database.
+01/08/2022 12:44:55  info: Connected to the Database.
+01/08/2022 12:45:04  info: Connected to the Database.
+01/08/2022 12:47:14  info: Connected to the Database.
+01/08/2022 12:47:54  info: Connected to the Database.
+01/08/2022 12:48:04  info: Connected to the Database.
+01/08/2022 12:48:18  info: Connected to the Database.
+01/08/2022 12:48:18  info: Server is up at Port 5000
+01/08/2022 12:48:31  info: Connected to the Database.
+01/08/2022 12:48:31  info: Server is up at Port 5000
+01/08/2022 12:48:55  info: Connected to the Database.
+01/08/2022 12:48:55  info: Server is up at Port 5000
+01/08/2022 12:49:08  info: Connected to the Database.
+01/08/2022 12:49:08  info: Server is up at Port 5000
+01/08/2022 12:49:23  info: Connected to the Database.
+01/08/2022 12:49:23  info: Server is up at Port 5000
+01/08/2022 12:49:34  info: Connected to the Database.
+01/08/2022 12:49:34  info: Server is up at Port 5000
+01/08/2022 12:49:42  info: Connected to the Database.
+01/08/2022 12:49:42  info: Server is up at Port 5000
+01/08/2022 12:49:45  info: Connected to the Database.
+01/08/2022 12:49:45  info: Server is up at Port 5000
+01/08/2022 12:50:02  error: Cannot read properties of undefined (reading 'initCategoryContext')
+01/08/2022 12:51:33  info: Connected to the Database.
+01/08/2022 12:51:33  info: Server is up at Port 5000
+01/08/2022 12:52:09  error: Cannot read properties of undefined (reading 'initCategoryContext')
+01/08/2022 12:53:02  info: Connected to the Database.
+01/08/2022 12:53:02  info: Server is up at Port 5000
+01/08/2022 12:53:10  info: Connected to the Database.
+01/08/2022 12:53:10  info: Server is up at Port 5000
+01/08/2022 12:53:21  info: Connected to the Database.
+01/08/2022 12:53:21  info: Server is up at Port 5000
+01/08/2022 12:53:27  error: Cannot read properties of undefined (reading 'initCategoryContext')
+01/08/2022 12:53:52  info: Connected to the Database.
+01/08/2022 12:53:52  info: Server is up at Port 5000
+01/08/2022 12:53:57  error: Cannot read properties of undefined (reading 'initCategoryContext')
+01/08/2022 12:55:01  info: Connected to the Database.
+01/08/2022 12:55:01  info: Server is up at Port 5000
+01/08/2022 12:55:12  info: Connected to the Database.
+01/08/2022 12:55:12  info: Server is up at Port 5000
+01/08/2022 12:55:26  error: Cannot read properties of undefined (reading 'initCategoryContext')
+01/08/2022 12:57:55  info: Connected to the Database.
+01/08/2022 12:57:55  info: Server is up at Port 5000
+01/08/2022 12:58:38  info: Connected to the Database.
+01/08/2022 12:58:38  info: Server is up at Port 5000
+01/08/2022 12:58:47  info: Connected to the Database.
+01/08/2022 12:58:47  info: Server is up at Port 5000
+01/08/2022 12:58:52  error: Cannot read properties of undefined (reading 'initCategoryContext')
+01/08/2022 12:59:23  info: Connected to the Database.
+01/08/2022 12:59:23  info: Server is up at Port 5000
+01/08/2022 13:00:05  error: Cannot read properties of undefined (reading 'initCategoryContext')
+01/08/2022 13:02:33  info: Connected to the Database.
+01/08/2022 13:02:33  info: Server is up at Port 5000
+01/08/2022 13:02:35  error: Cannot read properties of undefined (reading 'initCategoryContext')
+01/08/2022 13:03:03  info: Connected to the Database.
+01/08/2022 13:03:03  info: Server is up at Port 5000
+01/08/2022 13:03:07  error: Cannot read properties of undefined (reading 'initCategoryContext')
+01/08/2022 13:04:26  info: Connected to the Database.
+01/08/2022 13:04:26  info: Server is up at Port 5000
+01/08/2022 13:04:28  error: Cannot read properties of undefined (reading 'initCategoryContext')
+01/08/2022 13:06:03  info: Connected to the Database.
+01/08/2022 13:06:03  info: Server is up at Port 5000
+01/08/2022 13:06:33  info: Connected to the Database.
+01/08/2022 13:06:33  info: Server is up at Port 5000
+01/08/2022 13:06:38  error: errors.toArray is not a function
+01/08/2022 13:07:01  info: Connected to the Database.
+01/08/2022 13:07:01  info: Server is up at Port 5000
+01/08/2022 13:07:35  info: Connected to the Database.
+01/08/2022 13:07:35  info: Server is up at Port 5000
+01/08/2022 13:08:24  info: Connected to the Database.
+01/08/2022 13:08:24  info: Server is up at Port 5000
+01/08/2022 13:08:27  info: Connected to the Database.
+01/08/2022 13:08:27  info: Server is up at Port 5000
+01/08/2022 13:09:53  info: Connected to the Database.
+01/08/2022 13:09:53  info: Server is up at Port 5000
+01/08/2022 13:09:57  info: Connected to the Database.
+01/08/2022 13:09:57  info: Server is up at Port 5000
+01/08/2022 13:10:18  info: Connected to the Database.
+01/08/2022 13:10:18  info: Server is up at Port 5000
+01/08/2022 13:10:23  error: Cannot read properties of undefined (reading 'initCategoryContext')
+01/08/2022 13:12:12  info: Connected to the Database.
+01/08/2022 13:12:12  info: Server is up at Port 5000
+01/08/2022 13:12:46  info: Connected to the Database.
+01/08/2022 13:12:46  info: Server is up at Port 5000
+01/08/2022 13:13:05  info: Connected to the Database.
+01/08/2022 13:13:05  info: Server is up at Port 5000
+01/08/2022 13:13:10  error: Cannot read properties of undefined (reading 'initCategoryContext')
+01/08/2022 13:14:27  info: Connected to the Database.
+01/08/2022 13:14:27  info: Server is up at Port 5000
+01/08/2022 13:15:08  info: Connected to the Database.
+01/08/2022 13:15:08  info: Server is up at Port 5000
+01/08/2022 13:15:43  info: Connected to the Database.
+01/08/2022 13:15:43  info: Server is up at Port 5000
+01/08/2022 13:16:22  info: Connected to the Database.
+01/08/2022 13:16:22  info: Server is up at Port 5000
+01/08/2022 13:17:00  info: Connected to the Database.
+01/08/2022 13:17:00  info: Server is up at Port 5000
+01/08/2022 13:17:12  info: Connected to the Database.
+01/08/2022 13:17:12  info: Server is up at Port 5000
+01/08/2022 13:17:39  info: Connected to the Database.
+01/08/2022 13:17:39  info: Server is up at Port 5000
+01/08/2022 13:18:29  info: Connected to the Database.
+01/08/2022 13:18:29  info: Server is up at Port 5000
+01/08/2022 13:18:32  info: Connected to the Database.
+01/08/2022 13:18:32  info: Server is up at Port 5000
+01/08/2022 13:18:43  info: Connected to the Database.
+01/08/2022 13:18:43  info: Server is up at Port 5000
+01/08/2022 13:19:29  info: Connected to the Database.
+01/08/2022 13:19:29  info: Server is up at Port 5000
+01/08/2022 13:20:28  info: Connected to the Database.
+01/08/2022 13:20:28  info: Server is up at Port 5000
+01/08/2022 13:21:12  info: Connected to the Database.
+01/08/2022 13:21:12  info: Server is up at Port 5000
+01/08/2022 13:34:47  info: Connected to the Database.
+01/08/2022 13:34:47  info: Server is up at Port 5000
+01/08/2022 13:43:51  info: Connected to the Database.
+01/08/2022 13:43:51  info: Server is up at Port 5000
+01/08/2022 13:44:28  info: Connected to the Database.
+01/08/2022 13:44:28  info: Server is up at Port 5000
+01/08/2022 13:44:34  info: Connected to the Database.
+01/08/2022 13:44:34  info: Server is up at Port 5000
+01/08/2022 13:46:30  info: Connected to the Database.
+01/08/2022 13:46:30  info: Server is up at Port 5000
+01/08/2022 13:47:13  info: Connected to the Database.
+01/08/2022 13:47:13  info: Server is up at Port 5000
+01/08/2022 13:47:14  info: Connected to the Database.
+01/08/2022 13:47:14  info: Server is up at Port 5000
+01/08/2022 14:30:38  info: Connected to the Database.
+01/08/2022 14:30:38  info: Server is up at Port 5000
+01/08/2022 14:30:39  info: Connected to the Database.
+01/08/2022 14:30:39  info: Server is up at Port 5000
+01/08/2022 14:31:20  info: Connected to the Database.
+01/08/2022 14:31:20  info: Server is up at Port 5000
+01/08/2022 14:35:32  info: Connected to the Database.
+01/08/2022 14:35:32  info: Server is up at Port 5000
+01/08/2022 14:35:44  info: Connected to the Database.
+01/08/2022 14:35:44  info: Server is up at Port 5000
+01/08/2022 14:36:40  info: Connected to the Database.
+01/08/2022 14:36:40  info: Server is up at Port 5000
+01/08/2022 14:36:44  info: Connected to the Database.
+01/08/2022 14:36:44  info: Server is up at Port 5000
+01/08/2022 14:45:10  info: Connected to the Database.
+01/08/2022 14:45:10  info: Server is up at Port 5000
+01/08/2022 18:21:55  info: Connected to the Database.
+01/08/2022 18:21:55  info: Server is up at Port 5000
+01/08/2022 18:24:38  info: Connected to the Database.
+01/08/2022 18:24:38  info: Server is up at Port 5000
+01/08/2022 18:25:56  error: Cannot read properties of undefined (reading 'type')
+01/08/2022 18:28:57  info: Connected to the Database.
+01/08/2022 18:28:57  info: Server is up at Port 5000
+01/08/2022 18:31:10  info: Connected to the Database.
+01/08/2022 18:31:10  info: Server is up at Port 5000
+01/08/2022 18:36:16  info: Connected to the Database.
+01/08/2022 18:36:16  info: Server is up at Port 5000
+01/08/2022 18:36:20  info: Connected to the Database.
+01/08/2022 18:36:20  info: Server is up at Port 5000
+01/08/2022 18:36:30  info: Connected to the Database.
+01/08/2022 18:36:30  info: Server is up at Port 5000
+01/08/2022 18:37:20  info: Connected to the Database.
+01/08/2022 18:37:20  info: Server is up at Port 5000
+01/08/2022 18:41:22  info: Connected to the Database.
+01/08/2022 18:41:22  info: Server is up at Port 5000
+01/08/2022 18:41:35  info: Connected to the Database.
+01/08/2022 18:41:36  info: Server is up at Port 5000
+01/08/2022 18:42:40  info: [object Object]
+01/08/2022 18:43:49  info: Connected to the Database.
+01/08/2022 18:43:49  info: Server is up at Port 5000
+01/08/2022 18:44:27  info: [object Object]
+01/08/2022 18:45:03  info: Connected to the Database.
+01/08/2022 18:45:03  info: Server is up at Port 5000
+01/08/2022 18:46:14  info: [object Object]
+01/08/2022 18:47:29  info: Connected to the Database.
+01/08/2022 18:47:29  info: Server is up at Port 5000
+01/08/2022 18:48:03  info: [object Object]
+01/08/2022 18:49:06  info: Connected to the Database.
+01/08/2022 18:49:06  info: Server is up at Port 5000
+01/08/2022 18:49:56  info: Connected to the Database.
+01/08/2022 18:49:56  info: Server is up at Port 5000
+01/08/2022 18:54:01  info: Connected to the Database.
+01/08/2022 18:54:01  info: Server is up at Port 5000
+01/08/2022 18:54:10  info: Connected to the Database.
+01/08/2022 18:54:10  info: Server is up at Port 5000
+01/08/2022 18:54:23  info: Connected to the Database.
+01/08/2022 18:54:23  info: Server is up at Port 5000
+01/08/2022 18:55:14  error: con is not defined
+01/08/2022 18:55:57  info: Connected to the Database.
+01/08/2022 18:55:57  info: Server is up at Port 5000
+01/08/2022 19:03:09  error: request to http://localhost:8000/sendEmailWebhook failed, reason: read ECONNRESET
+01/08/2022 19:10:04  info: Connected to the Database.
+01/08/2022 19:10:04  info: Server is up at Port 5000
+01/08/2022 19:11:02  info: Connected to the Database.
+01/08/2022 19:11:02  info: Server is up at Port 5000
+01/08/2022 19:16:49  error: request to http://localhost:8000/sendEmailWebhook failed, reason: read ECONNRESET
+01/08/2022 19:18:39  info: Connected to the Database.
+01/08/2022 19:18:39  info: Server is up at Port 5000
+01/08/2022 19:19:08  info: Connected to the Database.
+01/08/2022 19:19:08  info: Server is up at Port 5000
+01/08/2022 19:20:29  error: request to http://localhost:8000/sendEmailWebhook failed, reason: read ECONNRESET
+01/08/2022 19:23:34  info: Connected to the Database.
+01/08/2022 19:23:34  info: Server is up at Port 5000
+01/08/2022 19:24:19  error: request to http://localhost:8000/sendEmailWebhook failed, reason: read ECONNRESET
+01/08/2022 19:32:17  info: Connected to the Database.
+01/08/2022 19:32:17  info: Server is up at Port 5000
+01/08/2022 19:34:11  info: Connected to the Database.
+01/08/2022 19:34:11  info: Server is up at Port 5000
+01/08/2022 19:51:57  info: Connected to the Database.
+01/08/2022 19:51:57  info: Server is up at Port 5000
+01/08/2022 20:00:08  info: Connected to the Database.
+01/08/2022 20:00:08  info: Server is up at Port 5000
+01/08/2022 20:01:28  info: Connected to the Database.
+01/08/2022 20:01:28  info: Server is up at Port 5000
+01/08/2022 20:01:33  info: Connected to the Database.
+01/08/2022 20:01:33  info: Server is up at Port 5000
+01/08/2022 20:07:47  info: Connected to the Database.
+01/08/2022 20:07:47  info: Server is up at Port 5000
+01/08/2022 20:15:18  info: Connected to the Database.
+01/08/2022 20:15:18  info: Server is up at Port 5000
+01/08/2022 20:18:12  info: Connected to the Database.
+01/08/2022 20:18:12  info: Server is up at Port 5000
+01/08/2022 20:18:26  info: Connected to the Database.
+01/08/2022 20:18:26  info: Server is up at Port 5000
+01/08/2022 20:21:58  info: Connected to the Database.
+01/08/2022 20:21:58  info: Server is up at Port 5000
+01/08/2022 20:22:03  info: Connected to the Database.
+01/08/2022 20:22:03  info: Server is up at Port 5000
+01/08/2022 20:22:34  info: Connected to the Database.
+01/08/2022 20:22:34  info: Server is up at Port 5000
+01/08/2022 20:25:37  info: Connected to the Database.
+01/08/2022 20:25:37  info: Server is up at Port 5000
+01/08/2022 20:25:58  info: Connected to the Database.
+01/08/2022 20:25:58  info: Server is up at Port 5000
+01/08/2022 20:26:07  info: Connected to the Database.
+01/08/2022 20:26:07  info: Server is up at Port 5000
+01/08/2022 20:27:11  error: TypeError: this.identifySerialNumber is not a function
+01/08/2022 20:27:54  info: Connected to the Database.
+01/08/2022 20:27:54  info: Server is up at Port 5000
+01/08/2022 20:28:48  error: TypeError: this.identifySerialNumber is not a function
+01/08/2022 20:30:10  info: Connected to the Database.
+01/08/2022 20:30:10  info: Server is up at Port 5000

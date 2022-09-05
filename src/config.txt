@@ -1,0 +1,19 @@
+{
+	"serverPort": 5000,
+	"isHttps": false,
+	"mongoIP": "localhost",
+	"mongoDBName": "EmailChannel_Server",
+	"mongoDBUserName": "",
+	"mongoDBPassword": "",
+	"callCenter": {
+		  "baseURL": "http://localhost:1053",
+		  "username": "pritam",
+		  "password": "pritam"
+      },
+	"Users": [
+		{
+			"username": "pritam",
+            "password": "pritam"
+	    }		
+	]  
+}

@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\Almawiz\\MultiChannelServer\\src\\logs\\.6144d6e0c050a23d08504dbaf348f0c505adac1f-audit.json",
+    "files": [
+        {
+            "date": 1658741597281,
+            "name": "D:\\Almawiz\\MultiChannelServer\\src\\logs\\log-2022-07-25.log",
+            "hash": "285fb844ce40ff3c1ec765f714446101b69ce01b215af0dd27778dcb1383ccee"
+        },
+        {
+            "date": 1658774212653,
+            "name": "D:\\Almawiz\\MultiChannelServer\\src\\logs\\log-2022-07-26.log",
+            "hash": "e795d0a4f1f7b875973d3e63712cc4eb83743c5f0d60946f127b0d006fd104ff"
+        },
+        {
+            "date": 1658860736429,
+            "name": "D:\\Almawiz\\MultiChannelServer\\src\\logs\\log-2022-07-27.log",
+            "hash": "e1caa5939bb92a44f7178ac398ca1788667aa03e5ce8d48f91c7420ec3eedd0f"
+        },
+        {
+            "date": 1658948640115,
+            "name": "D:\\Almawiz\\MultiChannelServer\\src\\logs\\log-2022-07-28.log",
+            "hash": "a1115039eab06b168f7787c2fcf4c6ec608750a911fc58e5dd134975886e407d"
+        },
+        {
+            "date": 1659069701781,
+            "name": "D:\\Almawiz\\MultiChannelServer\\src\\logs\\log-2022-07-29.log",
+            "hash": "9ea7d52543e5f429e935aa45c9f3617b18b42c8580b0cbb18cb5c7a6322bf1e7"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,11 @@
+05/09/2022 12:08:12  error: Error connecting to the Database.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+05/09/2022 12:09:25  error: Error connecting to the Database.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+05/09/2022 12:09:46  info: Connected to the Database.
+05/09/2022 12:09:46  info: Server is up at Port 5000
+05/09/2022 12:10:36  info: Connected to the Database.EmailChannel_Server
+05/09/2022 12:10:36  info: Server is up at Port 5000
+05/09/2022 12:11:00  info: Connected to the Database.EmailChannel_Server
+05/09/2022 12:11:00  info: Server is up at Port 5000
+05/09/2022 12:11:27  error: Error connecting to the Database.TypeError: self.client.db is not a function
+05/09/2022 12:11:44  info: Connected to the Database.EmailChannel_Server
+05/09/2022 12:11:44  info: Server is up at Port 5000

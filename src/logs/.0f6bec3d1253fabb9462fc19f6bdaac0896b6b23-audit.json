@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\Almawiz\\BackupSimpleServer\\src\\logs\\.0f6bec3d1253fabb9462fc19f6bdaac0896b6b23-audit.json",
+    "files": [
+        {
+            "date": 1660219747418,
+            "name": "D:\\Almawiz\\BackupSimpleServer\\src\\logs\\log-2022-08-11.log",
+            "hash": "e15322acad70f29ff4d66d45c02351e162d169b1c7a359bc50c2567f8ad31adc"
+        },
+        {
+            "date": 1660287438737,
+            "name": "D:\\Almawiz\\BackupSimpleServer\\src\\logs\\log-2022-08-12.log",
+            "hash": "4bdf64df86b46550e40f396f4a6b2cd82e5ebffa7dc28777d5d8c0b27f7d2de6"
+        },
+        {
+            "date": 1660586667625,
+            "name": "D:\\Almawiz\\BackupSimpleServer\\src\\logs\\log-2022-08-15.log",
+            "hash": "02f2e52245999db910fa6bda76e00bdca2638e2d64587de545c1d7a5278bf3aa"
+        },
+        {
+            "date": 1660589727221,
+            "name": "D:\\Almawiz\\BackupSimpleServer\\src\\logs\\log-2022-08-16.log",
+            "hash": "cfd388c34b1d501b67035f6bcfddc3c9ae3e96a6333723f0c5d9a01e1de70756"
+        },
+        {
+            "date": 1662359648998,
+            "name": "D:\\Almawiz\\BackupSimpleServer\\src\\logs\\log-2022-09-05.log",
+            "hash": "18d84db2ed6e94fe50bad1a639d06855e5ea626bdc5f65b45cf4df664e4aec17"
+        }
+    ],
+    "hashType": "sha256"
+}
