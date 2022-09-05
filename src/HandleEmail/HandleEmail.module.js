@@ -18,7 +18,7 @@ export class HandleEmailModule {
         this.appModule.post(this.prefix+"/handleEmail",(...args)=>this.#middleWare(...args),(...args)=>this.handleEmailController.handleEmailControl(...args));
 
         ////API gives list of Category////
-       this.appModule.get(this.prefix+"/getAllCategory", (...args)=>this.#middleWare(...args), (...args)=>this.handleEmailController.getAllCategory(...args));
+       this.appModule.get(this.prefix+"/getAllCategory", (...args)=>this.handleEmailController.getAllCategory(...args));
 
      }
 

@@ -9,3 +9,485 @@
 05/09/2022 12:11:27  error: Error connecting to the Database.TypeError: self.client.db is not a function
 05/09/2022 12:11:44  info: Connected to the Database.EmailChannel_Server
 05/09/2022 12:11:44  info: Server is up at Port 5000
+05/09/2022 12:14:54  info: Connected to the Database.EmailChannel_Server
+05/09/2022 12:14:54  info: Server is up at Port 5000
+05/09/2022 12:16:48  info: Connected to the Database.EmailChannel_Server
+05/09/2022 12:16:48  info: Server is up at Port 5000
+05/09/2022 12:19:01  info: Connected to the Database.EmailChannel_Server
+05/09/2022 12:19:01  info: Server is up at Port 5000
+05/09/2022 12:22:16  info: Connected to the Database.EmailChannel_Server
+05/09/2022 12:22:16  info: Server is up at Port 5000
+05/09/2022 12:22:28  info: Connected to the Database.EmailChannel_Server
+05/09/2022 12:22:28  info: Server is up at Port 5000
+05/09/2022 12:22:30  info: Connected to the Database.EmailChannel_Server
+05/09/2022 12:22:30  info: Server is up at Port 5000
+05/09/2022 12:22:43  info: Connected to the Database.EmailChannel_Server
+05/09/2022 12:22:43  info: Server is up at Port 5000
+05/09/2022 12:23:09  info: Connected to the Database.EmailChannel_Server
+05/09/2022 12:23:09  info: Server is up at Port 5000
+05/09/2022 12:36:59  info: Connected to the Database.EmailChannel_Server
+05/09/2022 12:36:59  info: Server is up at Port 5000
+05/09/2022 13:09:34  info: Connected to the Database.EmailChannel_Server
+05/09/2022 13:09:34  info: Server is up at Port 5000
+05/09/2022 13:21:11  info: Connected to the Database.EmailChannel_Server
+05/09/2022 13:21:11  info: Server is up at Port 5000
+05/09/2022 13:53:45  info: Connected to the Database.EmailChannel_Server
+05/09/2022 13:53:45  error: var_this is not defined
+05/09/2022 13:53:45  info: Server is up at Port 5000
+05/09/2022 13:53:52  info: Connected to the Database.EmailChannel_Server
+05/09/2022 13:53:52  info: Server is up at Port 5000
+05/09/2022 13:57:46  info: Connected to the Database.EmailChannel_Server
+05/09/2022 13:57:46  info: Server is up at Port 5000
+05/09/2022 13:58:07  info: Connected to the Database.EmailChannel_Server
+05/09/2022 13:58:07  info: Server is up at Port 5000
+05/09/2022 13:59:05  error: Cannot read property 'subject' of undefined
+05/09/2022 13:59:05  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 14:22:37  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:22:37  info: Server is up at Port 5000
+05/09/2022 14:24:05  error: Cannot read property 'answer' of undefined
+05/09/2022 14:24:05  error: Cannot read property 'subject' of undefined
+05/09/2022 14:24:05  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 14:29:23  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:29:23  info: Server is up at Port 5000
+05/09/2022 14:29:28  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:29:28  info: Server is up at Port 5000
+05/09/2022 14:30:04  error: Cannot read property 'subject' of undefined
+05/09/2022 14:30:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 14:31:44  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:31:44  info: Server is up at Port 5000
+05/09/2022 14:33:05  error: Cannot read property 'answer' of undefined
+05/09/2022 14:33:05  error: Cannot read property 'subject' of undefined
+05/09/2022 14:33:05  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 14:33:57  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:33:57  info: Server is up at Port 5000
+05/09/2022 14:35:00  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:35:00  info: Server is up at Port 5000
+05/09/2022 14:37:23  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:37:23  info: Server is up at Port 5000
+05/09/2022 14:38:54  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:38:54  info: Server is up at Port 5000
+05/09/2022 14:39:11  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:39:11  info: Server is up at Port 5000
+05/09/2022 14:39:56  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:39:56  info: Server is up at Port 5000
+05/09/2022 14:41:22  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:41:22  info: Server is up at Port 5000
+05/09/2022 14:41:26  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:41:26  info: Server is up at Port 5000
+05/09/2022 14:41:28  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:41:28  info: Server is up at Port 5000
+05/09/2022 14:42:05  error: Cannot read property 'currentNode' of undefined
+05/09/2022 14:42:05  error: Invalid attempt to destructure non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+05/09/2022 14:42:05  error: Cannot read property 'subject' of undefined
+05/09/2022 14:42:05  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 14:42:51  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:42:51  info: Server is up at Port 5000
+05/09/2022 14:43:00  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:43:00  info: Server is up at Port 5000
+05/09/2022 14:44:05  error: Cannot read property 'currentNode' of undefined
+05/09/2022 14:44:05  error: Invalid attempt to destructure non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+05/09/2022 14:44:05  error: Cannot read property 'subject' of undefined
+05/09/2022 14:44:05  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 14:45:24  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:45:24  info: Server is up at Port 5000
+05/09/2022 14:46:06  error: Cannot read property 'answer' of undefined
+05/09/2022 14:46:06  error: Invalid attempt to destructure non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+05/09/2022 14:46:06  error: Cannot read property 'subject' of undefined
+05/09/2022 14:46:06  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 14:48:11  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:48:11  info: Server is up at Port 5000
+05/09/2022 14:48:26  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:48:26  info: Server is up at Port 5000
+05/09/2022 14:49:05  error: Cannot read property 'answer' of undefined
+05/09/2022 14:49:05  error: Cannot read property 'subject' of undefined
+05/09/2022 14:49:05  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 14:49:39  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:49:39  info: Server is up at Port 5000
+05/09/2022 14:50:40  info: Connected to the Database.EmailChannel_Server
+05/09/2022 14:50:40  info: Server is up at Port 5000
+05/09/2022 15:01:51  info: Connected to the Database.EmailChannel_Server
+05/09/2022 15:01:51  info: Server is up at Port 5000
+05/09/2022 15:02:18  info: Connected to the Database.EmailChannel_Server
+05/09/2022 15:02:18  info: Server is up at Port 5000
+05/09/2022 15:02:30  info: Connected to the Database.EmailChannel_Server
+05/09/2022 15:02:30  info: Server is up at Port 5000
+05/09/2022 15:02:36  info: Connected to the Database.EmailChannel_Server
+05/09/2022 15:02:36  info: Server is up at Port 5000
+05/09/2022 15:02:52  info: Connected to the Database.EmailChannel_Server
+05/09/2022 15:02:52  info: Server is up at Port 5000
+05/09/2022 15:03:36  info: Connected to the Database.EmailChannel_Server
+05/09/2022 15:03:36  info: Server is up at Port 5000
+05/09/2022 15:03:59  info: Connected to the Database.EmailChannel_Server
+05/09/2022 15:03:59  info: Server is up at Port 5000
+05/09/2022 15:05:06  info: Connected to the Database.EmailChannel_Server
+05/09/2022 15:05:06  info: Server is up at Port 5000
+05/09/2022 15:06:05  error: Cannot read property 'answer' of undefined
+05/09/2022 15:06:05  error: Cannot read property 'subject' of undefined
+05/09/2022 15:06:05  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 15:09:00  info: Connected to the Database.EmailChannel_Server
+05/09/2022 15:09:00  info: Server is up at Port 5000
+05/09/2022 15:09:02  info: Connected to the Database.EmailChannel_Server
+05/09/2022 15:09:02  info: Server is up at Port 5000
+05/09/2022 15:09:38  info: Connected to the Database.EmailChannel_Server
+05/09/2022 15:09:38  info: Server is up at Port 5000
+05/09/2022 15:09:48  info: Connected to the Database.EmailChannel_Server
+05/09/2022 15:09:48  info: Server is up at Port 5000
+05/09/2022 15:10:11  info: Connected to the Database.EmailChannel_Server
+05/09/2022 15:10:11  info: Server is up at Port 5000
+05/09/2022 15:11:04  error: Cannot read property 'answer' of undefined
+05/09/2022 15:11:04  error: Invalid attempt to destructure non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+05/09/2022 15:11:04  error: Cannot read property 'subject' of undefined
+05/09/2022 15:11:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 15:11:38  info: Connected to the Database.EmailChannel_Server
+05/09/2022 15:11:38  info: Server is up at Port 5000
+05/09/2022 15:13:04  error: Invalid attempt to destructure non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+05/09/2022 15:13:04  error: Cannot read property 'subject' of undefined
+05/09/2022 15:13:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 15:14:04  error: Invalid attempt to destructure non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+05/09/2022 15:14:04  error: Cannot read property 'subject' of undefined
+05/09/2022 15:14:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 16:19:34  info: Connected to the Database.EmailChannel_Server
+05/09/2022 16:19:34  info: Server is up at Port 5000
+05/09/2022 16:19:57  info: Connected to the Database.EmailChannel_Server
+05/09/2022 16:19:57  info: Server is up at Port 5000
+05/09/2022 16:27:29  info: Connected to the Database.EmailChannel_Server
+05/09/2022 16:27:29  info: Server is up at Port 5000
+05/09/2022 16:39:35  info: Connected to the Database.EmailChannel_Server
+05/09/2022 16:39:35  info: Server is up at Port 5000
+05/09/2022 16:44:53  info: Connected to the Database.EmailChannel_Server
+05/09/2022 16:44:53  info: Server is up at Port 5000
+05/09/2022 16:46:05  info: Connected to the Database.EmailChannel_Server
+05/09/2022 16:46:05  info: Server is up at Port 5000
+05/09/2022 16:46:17  info: Connected to the Database.EmailChannel_Server
+05/09/2022 16:46:17  info: Server is up at Port 5000
+05/09/2022 16:54:55  info: Connected to the Database.EmailChannel_Server
+05/09/2022 16:54:55  info: Server is up at Port 5000
+05/09/2022 16:56:49  info: Connected to the Database.EmailChannel_Server
+05/09/2022 16:56:49  info: Server is up at Port 5000
+05/09/2022 16:56:52  info: Connected to the Database.EmailChannel_Server
+05/09/2022 16:56:52  info: Server is up at Port 5000
+05/09/2022 16:57:08  info: Connected to the Database.EmailChannel_Server
+05/09/2022 16:57:08  info: Server is up at Port 5000
+05/09/2022 17:11:03  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:11:03  info: Server is up at Port 5000
+05/09/2022 17:11:15  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:11:15  info: Server is up at Port 5000
+05/09/2022 17:11:32  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:11:32  info: Server is up at Port 5000
+05/09/2022 17:11:45  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:11:45  info: Server is up at Port 5000
+05/09/2022 17:13:02  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:13:02  info: Server is up at Port 5000
+05/09/2022 17:14:04  error: Cannot read property 'subject' of undefined
+05/09/2022 17:14:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 17:15:12  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:15:12  info: Server is up at Port 5000
+05/09/2022 17:16:18  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:16:18  info: Server is up at Port 5000
+05/09/2022 17:16:48  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:16:48  info: Server is up at Port 5000
+05/09/2022 17:16:59  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:16:59  info: Server is up at Port 5000
+05/09/2022 17:17:42  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:17:42  info: Server is up at Port 5000
+05/09/2022 17:17:57  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:17:57  info: Server is up at Port 5000
+05/09/2022 17:18:25  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:18:25  info: Server is up at Port 5000
+05/09/2022 17:19:04  error: Cannot read property 'subject' of undefined
+05/09/2022 17:19:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 17:21:47  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:21:47  info: Server is up at Port 5000
+05/09/2022 17:23:04  error: Cannot read property 'subject' of undefined
+05/09/2022 17:23:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 17:25:20  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:25:20  info: Server is up at Port 5000
+05/09/2022 17:25:31  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:25:31  info: Server is up at Port 5000
+05/09/2022 17:27:04  error: Cannot read property 'subject' of undefined
+05/09/2022 17:27:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 17:27:48  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:27:48  info: Server is up at Port 5000
+05/09/2022 17:32:11  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:32:11  info: Server is up at Port 5000
+05/09/2022 17:40:36  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:40:36  info: Server is up at Port 5000
+05/09/2022 17:41:23  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:41:23  info: Server is up at Port 5000
+05/09/2022 17:41:46  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:41:46  info: Server is up at Port 5000
+05/09/2022 17:41:58  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:41:58  info: Server is up at Port 5000
+05/09/2022 17:43:04  error: Cannot read property 'subject' of undefined
+05/09/2022 17:43:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 17:43:59  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:43:59  info: Server is up at Port 5000
+05/09/2022 17:45:05  error: Cannot read property 'subject' of undefined
+05/09/2022 17:45:05  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 17:46:27  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:46:27  info: Server is up at Port 5000
+05/09/2022 17:46:37  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:46:37  info: Server is up at Port 5000
+05/09/2022 17:46:43  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:46:43  info: Server is up at Port 5000
+05/09/2022 17:48:04  error: Cannot read property 'subject' of undefined
+05/09/2022 17:48:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 17:49:07  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:49:07  info: Server is up at Port 5000
+05/09/2022 17:49:58  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:49:58  info: Server is up at Port 5000
+05/09/2022 17:50:00  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:50:00  info: Server is up at Port 5000
+05/09/2022 17:50:29  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:50:29  info: Server is up at Port 5000
+05/09/2022 17:51:03  error: Cannot read property 'subject' of undefined
+05/09/2022 17:51:03  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 17:54:57  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:54:57  info: Server is up at Port 5000
+05/09/2022 17:55:07  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:55:07  info: Server is up at Port 5000
+05/09/2022 17:56:19  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:56:19  info: Server is up at Port 5000
+05/09/2022 17:56:30  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:56:30  info: Server is up at Port 5000
+05/09/2022 17:57:29  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:57:29  info: Server is up at Port 5000
+05/09/2022 17:57:59  info: Connected to the Database.EmailChannel_Server
+05/09/2022 17:57:59  info: Server is up at Port 5000
+05/09/2022 17:59:04  error: Cannot read property 'subject' of undefined
+05/09/2022 17:59:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 18:02:20  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:02:20  info: Server is up at Port 5000
+05/09/2022 18:02:49  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:02:49  info: Server is up at Port 5000
+05/09/2022 18:03:03  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:03:03  info: Server is up at Port 5000
+05/09/2022 18:03:11  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:03:11  info: Server is up at Port 5000
+05/09/2022 18:04:04  error: Cannot read property 'subject' of undefined
+05/09/2022 18:04:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 18:05:20  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:05:20  info: Server is up at Port 5000
+05/09/2022 18:06:07  error: Cannot read property 'subject' of undefined
+05/09/2022 18:06:07  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 18:06:32  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:06:32  info: Server is up at Port 5000
+05/09/2022 18:07:04  error: Cannot read property 'subject' of undefined
+05/09/2022 18:07:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 18:07:48  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:07:48  info: Server is up at Port 5000
+05/09/2022 18:09:05  error: Cannot read property 'currentNode' of undefined
+05/09/2022 18:09:05  error: Cannot read property 'subject' of undefined
+05/09/2022 18:09:05  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 18:10:34  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:10:34  info: Server is up at Port 5000
+05/09/2022 18:11:04  error: Cannot read property 'currentNode' of undefined
+05/09/2022 18:11:04  error: Cannot read property 'subject' of undefined
+05/09/2022 18:11:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 18:13:07  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:13:07  info: Server is up at Port 5000
+05/09/2022 18:14:03  error: Cannot read property 'currentNode' of undefined
+05/09/2022 18:14:03  error: Cannot read property 'subject' of undefined
+05/09/2022 18:14:03  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 18:18:36  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:18:36  info: Server is up at Port 5000
+05/09/2022 18:18:47  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:18:47  info: Server is up at Port 5000
+05/09/2022 18:19:08  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:19:08  info: Server is up at Port 5000
+05/09/2022 18:20:03  error: Cannot read property 'subject' of undefined
+05/09/2022 18:20:03  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 18:20:55  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:20:55  info: Server is up at Port 5000
+05/09/2022 18:22:04  error: Cannot read property 'subject' of undefined
+05/09/2022 18:22:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 18:22:30  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:22:30  info: Server is up at Port 5000
+05/09/2022 18:23:04  error: Cannot read property 'subject' of undefined
+05/09/2022 18:23:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 18:25:23  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:25:23  info: Server is up at Port 5000
+05/09/2022 18:26:04  error: Cannot read property 'subject' of undefined
+05/09/2022 18:26:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 18:27:12  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:27:12  info: Server is up at Port 5000
+05/09/2022 18:27:34  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:27:34  info: Server is up at Port 5000
+05/09/2022 18:28:23  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:28:23  info: Server is up at Port 5000
+05/09/2022 18:28:29  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:28:29  info: Server is up at Port 5000
+05/09/2022 18:28:49  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:28:49  info: Server is up at Port 5000
+05/09/2022 18:30:04  error: Cannot read property 'subject' of undefined
+05/09/2022 18:30:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 18:31:26  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:31:26  info: Server is up at Port 5000
+05/09/2022 18:31:42  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:31:42  info: Server is up at Port 5000
+05/09/2022 18:33:05  error: Cannot read property 'answer' of undefined
+05/09/2022 18:33:05  error: Cannot read property 'subject' of undefined
+05/09/2022 18:33:05  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 18:38:41  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:38:41  info: Server is up at Port 5000
+05/09/2022 18:38:55  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:38:55  info: Server is up at Port 5000
+05/09/2022 18:40:04  error: cat is not defined
+05/09/2022 18:43:18  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:43:18  info: Server is up at Port 5000
+05/09/2022 18:43:53  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:43:53  info: Server is up at Port 5000
+05/09/2022 18:47:04  error: cat is not defined
+05/09/2022 18:50:10  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:50:10  info: Server is up at Port 5000
+05/09/2022 18:51:04  error: cat is not defined
+05/09/2022 18:52:18  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:52:18  info: Server is up at Port 5000
+05/09/2022 18:52:32  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:52:32  info: Server is up at Port 5000
+05/09/2022 18:52:54  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:52:54  info: Server is up at Port 5000
+05/09/2022 18:54:04  error: cat is not defined
+05/09/2022 18:56:27  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:56:27  info: Server is up at Port 5000
+05/09/2022 18:58:06  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:58:06  info: Server is up at Port 5000
+05/09/2022 18:58:17  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:58:17  info: Server is up at Port 5000
+05/09/2022 18:58:45  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:58:45  info: Server is up at Port 5000
+05/09/2022 18:59:28  info: Connected to the Database.EmailChannel_Server
+05/09/2022 18:59:28  info: Server is up at Port 5000
+05/09/2022 19:00:13  info: Connected to the Database.EmailChannel_Server
+05/09/2022 19:00:13  info: Server is up at Port 5000
+05/09/2022 19:03:47  info: Connected to the Database.EmailChannel_Server
+05/09/2022 19:04:16  info: Connected to the Database.EmailChannel_Server
+05/09/2022 19:05:34  info: Connected to the Database.EmailChannel_Server
+05/09/2022 19:05:58  info: Connected to the Database.EmailChannel_Server
+05/09/2022 19:06:16  info: Connected to the Database.EmailChannel_Server
+05/09/2022 19:06:16  info: Server is up at Port 5000
+05/09/2022 19:07:04  error: Invalid attempt to iterate non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+05/09/2022 19:07:49  info: Connected to the Database.EmailChannel_Server
+05/09/2022 19:07:49  info: Server is up at Port 5000
+05/09/2022 19:08:15  info: Connected to the Database.EmailChannel_Server
+05/09/2022 19:08:15  info: Server is up at Port 5000
+05/09/2022 19:09:04  error: Invalid attempt to iterate non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+05/09/2022 20:01:22  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:01:27  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:02:07  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:02:19  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:02:19  info: Server is up at Port 5000
+05/09/2022 20:02:33  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:02:33  info: Server is up at Port 5000
+05/09/2022 20:02:50  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:02:50  info: Server is up at Port 5000
+05/09/2022 20:02:52  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:02:52  info: Server is up at Port 5000
+05/09/2022 20:04:04  error: Invalid attempt to iterate non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+05/09/2022 20:05:19  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:05:19  info: Server is up at Port 5000
+05/09/2022 20:05:34  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:05:34  info: Server is up at Port 5000
+05/09/2022 20:06:05  error: Invalid attempt to iterate non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+05/09/2022 20:06:48  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:06:48  info: Server is up at Port 5000
+05/09/2022 20:09:05  error: Invalid attempt to iterate non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+05/09/2022 20:10:53  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:10:53  info: Server is up at Port 5000
+05/09/2022 20:11:06  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:11:06  info: Server is up at Port 5000
+05/09/2022 20:12:03  error: Invalid attempt to iterate non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+05/09/2022 20:12:08  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:12:08  info: Server is up at Port 5000
+05/09/2022 20:12:22  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:12:22  info: Server is up at Port 5000
+05/09/2022 20:12:41  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:12:41  info: Server is up at Port 5000
+05/09/2022 20:13:10  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:13:10  info: Server is up at Port 5000
+05/09/2022 20:13:17  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:13:17  info: Server is up at Port 5000
+05/09/2022 20:13:55  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:13:55  info: Server is up at Port 5000
+05/09/2022 20:14:24  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:14:24  info: Server is up at Port 5000
+05/09/2022 20:14:37  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:14:37  info: Server is up at Port 5000
+05/09/2022 20:14:58  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:14:58  info: Server is up at Port 5000
+05/09/2022 20:15:49  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:15:49  info: Server is up at Port 5000
+05/09/2022 20:16:48  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:16:48  info: Server is up at Port 5000
+05/09/2022 20:17:41  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:17:41  info: Server is up at Port 5000
+05/09/2022 20:18:04  error: Invalid attempt to iterate non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+05/09/2022 20:19:00  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:19:00  info: Server is up at Port 5000
+05/09/2022 20:19:16  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:19:16  info: Server is up at Port 5000
+05/09/2022 20:20:04  error: Cannot read property 'subject' of undefined
+05/09/2022 20:20:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 20:21:53  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:21:53  info: Server is up at Port 5000
+05/09/2022 20:22:21  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:22:21  info: Server is up at Port 5000
+05/09/2022 20:23:05  error: Cannot read property 'subject' of undefined
+05/09/2022 20:23:05  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 20:23:48  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:23:48  info: Server is up at Port 5000
+05/09/2022 20:25:36  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:25:36  info: Server is up at Port 5000
+05/09/2022 20:26:11  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:26:11  info: Server is up at Port 5000
+05/09/2022 20:27:04  error: Cannot read property 'subject' of undefined
+05/09/2022 20:27:04  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 20:28:39  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:28:39  info: Server is up at Port 5000
+05/09/2022 20:30:14  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:30:14  info: Server is up at Port 5000
+05/09/2022 20:30:28  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:30:28  info: Server is up at Port 5000
+05/09/2022 20:34:23  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:34:23  info: Server is up at Port 5000
+05/09/2022 20:34:27  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:34:27  info: Server is up at Port 5000
+05/09/2022 20:35:05  info: Successfuly sent data to the call center.
+05/09/2022 20:36:04  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:36:04  info: Server is up at Port 5000
+05/09/2022 20:39:28  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:39:28  info: Server is up at Port 5000
+05/09/2022 20:40:28  info: Connected to the Database.EmailChannel_Server
+05/09/2022 20:40:28  info: Server is up at Port 5000
+05/09/2022 20:46:04  info: Successfuly sent data to the call center.
+05/09/2022 20:47:04  info: Successfuly sent data to the call center.
+05/09/2022 20:50:05  info: Successfuly sent data to the call center.
+05/09/2022 20:52:05  info: Successfuly sent data to the call center.
+05/09/2022 20:54:04  info: Successfuly sent data to the call center.
+05/09/2022 20:56:08  info: Successfuly sent data to the call center.
+05/09/2022 20:59:04  info: Successfuly sent data to the call center.
+05/09/2022 21:00:01  info: Connected to the Database.EmailChannel_Server
+05/09/2022 21:00:01  info: Server is up at Port 5000
+05/09/2022 21:00:38  info: Connected to the Database.EmailChannel_Server
+05/09/2022 21:00:38  info: Server is up at Port 5000
+05/09/2022 21:05:23  info: Connected to the Database.EmailChannel_Server
+05/09/2022 21:05:23  info: Server is up at Port 5000
+05/09/2022 21:06:05  error: Cannot read property 'question' of undefined
+05/09/2022 21:06:05  error: Cannot read property 'subject' of undefined
+05/09/2022 21:06:05  error: TypeError: Cannot read property 'subject' of undefined
+05/09/2022 21:06:49  info: Connected to the Database.EmailChannel_Server
+05/09/2022 21:06:49  info: Server is up at Port 5000
+05/09/2022 21:08:04  info: Successfuly sent data to the call center.

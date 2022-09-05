@@ -6,37 +6,35 @@ class IsNodeComplete {
          this.info = _info;
      }
 
-     mainHandler(categoryContext, body) {
+    async mainHandler(categoryContext) {
           try{
                 switch(categoryContext.currentNode){
                      case "A1": 
-                         console.log(categoryContext, body, "in isNode Complete MainHandler");
-                         // return this.#checkNode(categoryContext, "A1");
+                         const A1Node  = await this.#checkNodeA1(categoryContext);
+                         return A1Node;
                      default: 
-                         return;    
+                         return;   
                 }
           }catch(error) {
-               console.log(error, "In Is Node Complete");
+               console.log(error)
                this.info.logger.error(error);
           }
      }
 
 
-     #checkNode(categoryContext, node) {
+     async #checkNodeA1(categoryContext=Object) {
            try{
-               console.log(categoryContext, node, "is the node complete.")
-          //      const nodeDetails = categoryContext.current_order[this.conversation.getConversationQuestion[node]]
-          //      let updateContext = {};
-          //     if(nodeDetails) {
-          //          if(!nodeDetails.status && nodeDetails.answer === "" ) {
-          //              return [false, categoryContext];
-          //          }else {
-          //           categoryContext.current_order[this.conversation.getConversationQuestion[node]].status = true;
-          //           categoryContext.current_order[this.conversation.getConversationQuestion[node]].count++;
-          //           return [true, categoryContext];
-          //          }
-          //     }
+              let categoryContextNew={...categoryContext};
+              if(categoryContextNew.current_order.A1.answer !== "") {
+               categoryContextNew.current_order["A1"].status=true;
+               categoryContextNew.current_order["A1"].count++;
+               categoryContextNew.currentNode=this.conversation.getNextNode("A1");
+                    return categoryContextNew;
+              }else{
+                    return categoryContextNew;
+              }
            }catch(error) {
+               console.log(error)
                 this.info.logger.error(error);
            }
      }

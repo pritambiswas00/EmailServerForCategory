@@ -1,8 +1,10 @@
 const conversationFlow = require("../ConversationFlow.json");
+const _ =require("lodash");
 
 class ConversationFlow {
      constructor() {
          this.conversationFlow = conversationFlow;
+        //  console.log(this.conversationFlow["questionTree"]["A1"])
      }
 
      getRootNode() {
@@ -17,8 +19,14 @@ class ConversationFlow {
      }
 
      getQuestionTree() {
-         const questionTree = this.conversationFlow["questionTree"];
-         return questionTree;
+        return this.conversationFlow["questionTree"];  
+     }
+
+     getNextNode(node) {
+         console.log("get next node")
+          let nodeDetails=this.getQuestionTree();
+          if(_.isEmpty(nodeDetails)) return null;
+          return nodeDetails[node].questions.answers.nextNode;
      }
 
 }

@@ -24,7 +24,7 @@ export class HandleEmailServices {
         }
     }
 
-    async handleEmailServices(body) {
+    async handleEmailServices(body=Object) {
         try {
             console.log(body, "EMAIL SERVICE PROCESS STARTED");
             const ticketCollection = await this.connection.getCollection(this.ticketCollectionName);
@@ -44,10 +44,9 @@ export class HandleEmailServices {
             await this.#updateConversation(this.Users.USER, body, undefined);
             const existedTicket = await ticketCollection.findOne(ticketQuery);
             const instruction = await this.category.handleEmail(existedTicket.categoryContext, body);
-            console.log(instruction, "INSTRUCTION");
-            // this.#typeChecking(instruction, body);
-            // await this.#updateConversation(this.Users.BOT, body, instruction);
-            // console.log("EMAIL SERVICE PROCESS FINISHED");
+            this.#typeChecking(instruction, body);
+            await this.#updateConversation(this.Users.BOT, body, instruction);
+            console.log("EMAIL SERVICE PROCESS FINISHED");
         } catch (error) {
             this.logger.error(error);
             console.log(error);
@@ -189,10 +188,16 @@ export class HandleEmailServices {
 
     async #sendMessageDataToCallCenter(data = Object) {
         try {
-            const newData = {...data, body: data.body.toString()}
-            console.log(newData, "NEW DATAT")
-            console.log(JSON.stringify(newData));
-            const newBody = JSON.stringify(newData);
+            const newData = {
+                    corporate: data.corporate,
+                    categoryId: data.categoryId,
+                    subject: data.subject,
+                    body: data.body,
+                    emailDateTime: 5,
+                    to: data.to,
+                    closeTicket: data.closeTicket,
+                    from: data.from
+            }
             const {
                 baseURL,
                 username,
@@ -202,9 +207,9 @@ export class HandleEmailServices {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
-                    // "Authorization": `Basic ${Buffer.from(`${username}:${password}`).toString("base64")}`
+                    "Authorization": `Basic ${Buffer.from(`${username}:${password}`).toString("base64")}`
                 },
-                body: newBody
+                body: JSON.stringify(newData)
             }
             const response = await fetch(baseURL + "/EmailChannel/EmailChannelMessageResponse", sendOptions);
             const responseData = await response.json();
@@ -227,7 +232,7 @@ export class HandleEmailServices {
                 case this.process.REPLY:
                     await this.#updateTicketCollection(body, instruction);
                     if (this.config.callCenter) {
-                        // await this.#sendMessageDataToCallCenter(instruction.data);
+                        await this.#sendMessageDataToCallCenter(instruction.data);
                         console.log(body, instruction, "SENDING MESSAGE TO THE CALL CENTER.")
                     }
                     break;

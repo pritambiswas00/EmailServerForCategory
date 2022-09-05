@@ -6,13 +6,47 @@ class ValidateInputHandler {
         this.info = _info;
      }
 
-     mainHandler(categoryContext, body) {
+     async mainHandler(categoryContext, body) {
         try{
-            
+            const extractedInput = await this.#extractInput(categoryContext, body);
+            switch(categoryContext.currentNode){
+                   case "A1":
+                        const A1Node = await this.#A1Node(extractedInput, body);
+                        return A1Node;
+                   default:
+                        return;     
+            }
         }catch(error) {
             this.info.logger.error(error);
             console.log(error, "FROM Validate Input Handler")
         }
+     }
+
+     async #extractInput(categoryContext, body) {
+            try{
+                let CategoryContext={...categoryContext};
+                return CategoryContext;
+            }catch(error) {
+                this.info.logger.error(error);
+                console.log(error)
+            }
+             
+     }
+
+     async #A1Node(categoryContext, body) {
+          try{
+             let current_order=categoryContext.current_order;
+             const isProblemExist=this.#identifyProblemFromBody(body.body);
+             if(isProblemExist!==""){
+                  categoryContext.problem=isProblemExist;
+                  current_order["A1"].answer=isProblemExist;
+                  categoryContext.current_order=current_order;
+                  return categoryContext;
+             }
+             return categoryContext;
+          }catch(error) {
+              
+          }
      }
 
      #identifySerialNumberFromBody (text) {

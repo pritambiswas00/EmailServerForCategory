@@ -10,16 +10,14 @@ class Handler {
         this.isNodeCompleteHandler = new IsNodeComplete(this.conversation,this.info);
         this.validateInputHandler = new ValidateInputHandler(this.conversation,this.info);
     }
-    async mainCategoryEmailHandler(categoryContext, body) {
+    async mainCategoryEmailHandler(incomingContext, incomingMessage) {
            try{
-             const query = this.isNodeCompleteHandler.mainHandler(categoryContext,body);
-             console.log(query, "Query")
-            //  if(!query[0]) {
-            //      const validatingInput = this.validateInputHandler.mainHandler(query[1], body);
-            //      return this.questionHandler.mainHandler(validatingInput[0], body);
-            //  }
-            //  return this.questionHandler.mainHandler(query[1], body);
+            const updatedContext = await this.validateInputHandler.mainHandler(incomingContext, incomingMessage);
+            const categoryContext= await this.isNodeCompleteHandler.mainHandler(updatedContext);
+            const instruction = this.questionHandler.mainHandler(categoryContext, incomingMessage);
+            return instruction;
            }catch(error) {
+            console.log(error)
               this.info.logger.error(error);
            }
     }
@@ -39,14 +37,16 @@ class Handler {
           freshStart: true,
           currentNode: "A1"
        };
-        console.log(this.conversation.getQuestionTree(), "Conversation Flow")
-       for( let key in Object(this.conversation.getQuestionTree())) {
+        const questionTree=this.conversation.getQuestionTree();
+        const keys = Object.keys(questionTree);
+       for( let key of keys) {
               categoryContext.current_order[key] = {
                 status: false,
                 answer: "",
                 count: 0
               }
        }
+       console.log(categoryContext)
     return categoryContext;
     }
 }
